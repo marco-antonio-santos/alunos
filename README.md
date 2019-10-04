@@ -1,4 +1,4 @@
-# Backend - API simulada com JSON-SERVER
+﻿# Backend - API simulada com JSON-SERVER
 
 ## Primeiros passos
 
